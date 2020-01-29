@@ -1,2 +1,2 @@
-# Project36
-demo on credential storage
+# Example Site
+This is a sample thing.
